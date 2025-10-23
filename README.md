@@ -101,8 +101,9 @@ O design é minimalista e fácil de usar, com foco na simplicidade.
 1. **Tela Principal**
 
 ![Figura 1: Exemplo da tela principal do aplicativo](/imgs/c1.png)
+*Figura da tela 1 do aplicativo*
 
  ![Figura 2: Exmplo da tela secundaria do aplicativo](/imgs/c2.png)
- 
+ *Figura da tela 2 do aplicativo*
 ## 👨‍💻 Desenvolvedores –
 **Arthur Rodrigues** - Desenvolvedor - [GitHub](https://github.com/arthurZ-33)
